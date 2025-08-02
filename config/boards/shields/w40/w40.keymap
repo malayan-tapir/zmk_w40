@@ -37,7 +37,7 @@
             label = "toJIS";
             #binding-cells = <2>;
             tapping-term-ms = <200>;
-            quick-tap-ms = <125>;
+            quick-tap-ms = <0>;
             bindings = <&tog>, <&kp>;
         };
         mo2: mo2 {
