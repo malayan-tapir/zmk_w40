@@ -1,4 +1,4 @@
-#include "w40m.dtsi"
+#include "w40.dtsi"
 
 / {
     chosen {
