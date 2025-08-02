@@ -4,7 +4,7 @@
 
 / {
   chosen {
-    zmk,physical-layout = &w40m_physical_layout;
+    zmk,physical-layout = &w40_physical_layout;
   };
 
   w40m_physical_layout: w40_physical_layout {
